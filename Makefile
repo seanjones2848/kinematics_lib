@@ -8,7 +8,7 @@ SRC = $(addprefix $(SRC_PATH)/, $(SRC_FILES))
 
 OBJ = $(SRC_FILES:.c=.o)
 
-TEST_FILES = test_fix.c
+TEST_FILES = fix_test.c
 
 TEST = $(addprefix $(SRC_PATH)/, $(TEST_FILES))
 
