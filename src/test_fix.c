@@ -2,7 +2,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "kinematics_lib.h"
+#include "libkinematics.h"
 
 int main()
 {

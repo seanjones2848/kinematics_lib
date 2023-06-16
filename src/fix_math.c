@@ -1,4 +1,4 @@
-#include "kinematics_lib.h"
+#include "libkinematics.h"
 
 fix    fix_sqrt(fix x)
 {

@@ -1,8 +1,8 @@
 NAME = libkinematics.a
 
 SRC_PATH = src
-SRC_FILES = fixed_util.c \
-			fixed_math.c
+SRC_FILES = fix_util.c \
+			fix_math.c
 
 SRC = $(addprefix $(SRC_PATH)/, $(SRC_FILES))
 

@@ -1,5 +1,5 @@
-#ifndef KINEMATICS_LIB_H
-# define KINEMATICS_LIB_H
+#ifndef LIBKINEMATICS_H
+# define LIBKINEMATICS_H
 # include <stdio.h>
 # include <math.h>
 # include <stdint.h>

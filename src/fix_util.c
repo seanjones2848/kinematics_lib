@@ -1,5 +1,5 @@
 // max_dec is the maximum decimal places desired, -1 means reasonable, -2 means all including junk
-#include "kinematics_lib.h"
+#include "libkinematics.h"
 
 void    fix_str(fix x, char *str, int max_dec)
 {
